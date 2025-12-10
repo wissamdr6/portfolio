@@ -1,6 +1,6 @@
 # Wissam Draou — Data Scientist & ML Engineer  
 
-# 🌐 Portfolio en ligne  
+# 🌐 Portfolio online  
 👉 **https://wissamdr6.github.io**
 
 ---
